@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsdync",
+        "uuid": 6196932,
+        "checksum": "ylzhd9"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
